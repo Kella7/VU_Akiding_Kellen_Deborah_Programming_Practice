@@ -1,4 +1,4 @@
-# VU_Bua_Anthony_Programming_Practice
+# VU_Akiding_Kellen_Deborah_Programming_Practice
 
 ## Python for Data Science — Coursework Three
 **September 2026**
