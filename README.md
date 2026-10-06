@@ -25,6 +25,6 @@ The code is organized and commented to clearly identify sections such as:
 
 The Jupyter Notebook is located at:
 
-`Coursework_Three_September_2026/python_revision_topics_1_to_9.ipynb`
+`Coursework_Three_September_2026/Coursework 3 Akiding Kellen Deborah.ipynb`
 
 The notebook is designed to be opened and run in VS Code using the Jupyter extension.
